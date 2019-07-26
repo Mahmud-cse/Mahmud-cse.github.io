@@ -1,0 +1,316 @@
+*{
+   height: auto;
+   width: auto;
+}
+
+.main {
+    width: 1332px;
+    height: 520px;
+    opacity: 0.9;
+}
+
+.navbar {
+    width: 1332px;
+    height: 65px;
+    border-bottom: 1px solid black;
+}
+
+.menulinks ul {
+    list-style-type: none;
+    text-align: end;
+}
+
+.menulinks ul a {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+
+.menulinks ul a:hover {
+    background-color: #15B935;
+    color: white;
+}
+
+.menulinks ul li {
+    display: inline-block;
+    padding-top: 5px; 
+}
+
+.png{
+    width: 90px;
+    height: 50px;
+    float: left;
+    padding-left: 10px;
+   
+}
+
+.menulinks{
+    float: right;
+}
+
+.green {
+    color: #15B935
+}
+
+.welcome {
+    font-size: 40px;
+    position: absolute;
+    margin-left: 555px;
+    margin-top: -250px;
+    
+}
+
+.green2 {
+    color: green;
+    font-size: 30px;
+    margin: auto;
+    display: block;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.left{
+    float: left;
+    height: 230px;
+    width: 400px;
+    margin-left: 90px;
+    margin-top: 110px;
+    font-size: 22px;
+}
+
+.right{
+    float: right;
+    width: 400px;
+    height: 300px;
+}
+
+#second{
+    width: 1332px;
+    height: 300px;
+}
+
+.green3 {
+    color: green;
+    font-size: 30px;
+    margin: auto;
+    display: block;
+    text-align: center;
+    margin-top: 28px;
+    margin-bottom: 30px;
+    margin-right: 480px;
+}
+
+.father{
+    width: 100px;
+    height: 60px;
+    margin-left: -420px;
+    padding-top: 38px;
+}
+
+.artical{
+    float: left;
+    height: 100px;
+    width: 400px;
+    margin-left: 90px;
+    margin-top: 131px;
+    font-size: 20px;
+}
+
+.mother{
+    width: 100px;
+    height: 60px;
+    margin-left: 653px;
+    margin-top:-80px;
+}
+
+.artical2{
+    float: right;
+    height: 100px;
+    width: 400px;
+    margin-right: 90px;
+    margin-top: 34px;
+    font-size: 20px;
+    text-align: right;
+}
+
+.right2{
+    margin-top: -26px;
+}
+
+#third{
+    background-color: #00BDBD;
+    height: 240px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-bottom: 26px;
+}
+
+.green4{
+    color: green;
+    font-size: 30px;
+    margin: auto;
+    display: block;
+    text-align: center;
+    margin-top: 28px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+
+.main2{
+    opacity: 0.6;
+    width: 1332px;
+    
+}
+
+.hobbies{
+    position: absolute;
+    margin-left: 545px;
+    margin-top: -200px;
+}
+
+
+ .hobbies1{
+    width: 100px;
+    height: 60px;
+    margin-top: 30px;
+    margin-left: -420px;
+}
+
+.artical3{
+    float:left;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 100px;
+    font-size: 20px;
+    width: 410px;
+}
+
+.hobbies2{
+    width: 100px;
+    height: 60px;
+    margin-left: -410px;
+    margin-top: -110px;
+    padding-bottom: 20px;
+
+}
+
+.hobbies3{
+    width: 100px;
+    height: 60px;
+    margin-left: 80px;
+    margin-top: -100px;
+    padding-bottom: 30px;
+    
+}
+
+
+.artical4{
+    float:left;
+    height: 100px;
+    margin-left: 20px;
+    margin-top:5px;
+    font-size: 20px;
+    width: 410px;
+    
+}
+
+.artical5{
+    float: right;
+    height: 100px;
+    margin-left: 20px;
+    margin-top:-30px;
+    font-size: 20px;
+    width: 410px;
+}
+
+#fifth{
+    width: 1332px;
+    height: 150px;
+}
+
+.green5{
+    color: green;
+    font-size: 30px;
+    margin: auto;
+    display: block;
+    text-align: center;
+    margin-top: 28px;
+    margin-bottom: 30px;
+    margin-left: 120px;
+}
+
+.list{
+    font-size:25px;
+    font-style: italic;
+}
+
+#six{
+    width: 1332px;
+    height: 120px;
+}
+
+.green6{
+    color: green;
+    font-size: 30px;
+    margin: auto;
+    display: block;
+    text-align: center;
+    margin-top: 28px;
+    margin-bottom: 30px;
+    margin-left: -10px;
+}
+
+.lastpic1{
+    width: 90px;
+    height: 110px;
+    float: right;
+}
+
+.lastpic2{
+    width: 90px;
+    height: 110px;
+    float: right;
+}
+
+.lastpic3{
+    width: 90px;
+    height: 110px;
+    float: right;
+}
+
+.pics{
+    padding-top: 110px;
+    padding-bottom: 58px;
+    background-color: #FF5733;
+    height: 145px;
+}
+
+#futureplan{
+    width: 1332px;
+}
+
+/* Tablet Landscape */
+@media screen and (max-width: 1060px) {
+    #primary { width:67%; }
+    #secondary { width:30%; margin-left:3%;}  
+}
+/* Tabled Portrait */
+@media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
+}
+
+@keyframes img_animation {
+    from {
+        width: 20%;
+    }
+
+    to {
+        width: 30%;
+    }
+}
+
+#second img:hover {
+    animation: img_animation 2s;
+}
