@@ -1,3 +1,3 @@
 # Mahmud-cse.github.io
 
-My university first semester project.
+My very first project.
